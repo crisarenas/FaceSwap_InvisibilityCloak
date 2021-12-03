@@ -11,9 +11,14 @@ En la carpeta `faces` se incluyen las diferentes caras a probar. En la carpeta `
 _______________
 ## Ejemplo de Face Swap:
 
-Harry Potter               |  Hermione Granger         |Harrmione Pottger  |
-:-------------------------:|:-------------------------:|:-----------|
-<img src="faces/harry.jpg"  width="100"/>  |  <img src="faces/hermione.jpg"  width="200"/>|     <img src="fotos_docu/harrmione.jpg"  width="200"/>
+Harry Potter               |  Hermione Granger         |
+:-------------------------:|:-------------------------:|
+<img src="faces/harry.jpg"  width="200"/>  |  <img src="faces/hermione.jpg"  width="250"/>|     
+
+
+**Harrmione Pottger**              
+
+<img src="fotos_docu/harrmione.jpg"  width="300"/>
 
 
 
