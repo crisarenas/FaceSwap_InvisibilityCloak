@@ -18,8 +18,7 @@ Harry Potter               |  Hermione Granger         |
 
 **Harrmione Pottger**              
 
-<img src="fotos_docu/harrmione.jpg"  width="300"/>
-
+<img src="fotos_docu/harrmione.jpg" alt="drawing" style="width:300px;"/>
 
 
 
