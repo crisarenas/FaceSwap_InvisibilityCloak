@@ -13,7 +13,7 @@ _______________
 
 Harry Potter               |  Hermione Granger         |Harrmione Pottger  |
 :-------------------------:|:-------------------------:|:-----------|
-<img src="faces/harry.jpg"  width="200"/>  |  <img src="faces/hermione.jpg"  width="250"/>|     <img src="fotos_docu/harrmione.png"  width="250"/>
+<img src="faces/harry.jpg"  width="100"/>  |  <img src="faces/hermione.jpg"  width="100"/>|     <img src="fotos_docu/harrmione.png"  width="100"/>
 
 
 
